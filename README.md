@@ -36,6 +36,17 @@ A clean and responsive **Login and Signup UI** built using **Flutter** — my ve
 
 ---
 
+## 🧭 Roadmap
+✅ UI with login/signup screens
+
+- 🔲 Add Firebase authentication
+
+- 🔲 Implement form validation and error messages
+
+- 🔲 Add password visibility toggle
+
+- 🔲 Light/Dark mode switch
+
 ## 📁 Getting Started
 
 To run this project locally, follow these steps:
@@ -53,15 +64,5 @@ flutter pub get
 # Run the app
 flutter run
 
-## 🧭 Roadmap
-✅ UI with login/signup screens
-
-🔲 Add Firebase authentication
-
-🔲 Implement form validation and error messages
-
-🔲 Add password visibility toggle
-
-🔲 Light/Dark mode switch
 
 
